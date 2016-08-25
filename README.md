@@ -6,8 +6,8 @@ Object Oriented Programming course in Fall 2015.
 
 # Installation Guide
 
-The executable JAR file is available at [output/MotionSimulator.jar]
+An executable JAR file is available at [output/MotionSimulator.jar]
 (https://github.com/hieule22/motion-simulator/tree/master/output). The Java
-Runtime Environment (downloadable from [Oracle website]
+Runtime Environment (downloadable from this [Oracle website]
 (http://www.oracle.com/technetwork/indexes/downloads/index.html#java)) is
-required to run this file.
+required to run the file.
